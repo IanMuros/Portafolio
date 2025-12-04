@@ -1,7 +1,7 @@
 # Portafolio de Estructura de Datos
 
 **Universidad Autónoma de Yucatán - Facultad de Matemáticas**
-**Integrantes:** Chin Chan Anna Sofia, Paredes Vazquez Ian
+ By Paredes Vazquez Ian
 
 ---
 
