@@ -2,9 +2,7 @@
 
 **Universidad Autónoma de Yucatán - Facultad de Matemáticas**
 
-**Integrantes:**
-* Chin Chan Anna Sofia
-* Paredes Vazquez Ian
+Paredes Vazquez Ian
 
 ---
 
