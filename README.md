@@ -1,7 +1,7 @@
 # Portafolio de Estructura de Datos
 
 **Universidad Autónoma de Yucatán - Facultad de Matemáticas**
- By Paredes Vazquez Ian
+ by Paredes Vazquez Ian
 
 ---
 
