@@ -15,7 +15,7 @@
 
 **Desarrollado por:**
 
-| 👨‍💻 Integrante | 🆔 Matrícula / Rol |
+| 👨‍💻 Integrante | Rol |
 | :--- | :--- |
 | **Paredes Vazquez Ian** | Developer |
 
