@@ -17,7 +17,7 @@
 
 **👤 Desarrollado por:**
 
-### Chin Chan Anna Sofia
+### Paredes Vázquez Ian
 *Estudiante de Ingeniería en Computación*
 
 </div>
@@ -44,8 +44,8 @@ Este repositorio contiene la colección completa de prácticas diseñadas para d
 Este portafolio fue construido utilizando las siguientes herramientas y estándares:
 
 * **Lenguajes:**
-    * ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Programación Orientada a Objetos)
-    * ![C](https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=white) (Programación Estructurada)
+    * ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+    * ![C](https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=white)
 * **IDE & Herramientas:**
     * Visual Studio Code
     * Git & GitHub
