@@ -1,16 +1,20 @@
-# ADA 07: Árboles Binarios y Recorridos
+# ADA 07: Árboles Binarios de Búsqueda (BST)
 
-## Descripción
-En esta práctica se implementó la estructura de datos jerárquica conocida como **Árbol Binario**. A diferencia de las listas, los árboles organizan la información en nodos raíz, ramas y hojas, permitiendo búsquedas eficientes.
+## 1. Descripción General
+La actividad final del portafolio se centró en la implementación de **Árboles Binarios**. Esta estructura jerárquica consta de un nodo raíz donde cada nodo puede tener como máximo dos hijos (izquierdo y derecho).
 
-La actividad se dividió en dos partes:
-1.  Implementación base del árbol.
-2.  Operaciones avanzadas (como recorridos en Preorden, Inorden, Postorden).
+Se desarrollaron algoritmos recursivos para:
+1.  **Inserción:** Colocar valores menores a la izquierda y mayores a la derecha.
+2.  **Recorridos:** Visualizar el árbol en Preorden, Inorden y Postorden.
+3.  **Búsqueda:** Localizar valores eficientemente.
 
-## Contenido del Directorio
-* **Problema01:** Código `ADA07_AP1.c++` correspondiente a la primera parte de la práctica.
-* **Problema02:** Código `ADA07_AP2.C++` correspondiente a la segunda parte o ejercicios complementarios.
+## 2. Estructura del Directorio
+* `Problema01/ADA07_AP1.c++`: Implementación básica del Árbol y sus nodos.
+* `Problema02/ADA07_AP2.C++`: Implementación de funcionalidades avanzadas y casos de prueba.
 
-## Reflexión Personal
-* **¿Qué aprendí?**: (Sobre la recursividad necesaria para recorrer las ramas del árbol).
-* **Problemas y soluciones**: (Ejemplo: Visualizar mentalmente cómo se conectan los punteros izquierda y derecha).
+## 3. Reflexión Personal
+**Aprendizajes clave:**
+El concepto más importante fue la **recursividad**. Casi todas las operaciones en árboles se resuelven llamando a la misma función para el sub-árbol izquierdo y el derecho. Entendí cómo el recorrido "Inorden" en un árbol de búsqueda nos devuelve los datos ya ordenados automáticamente.
+
+**Retos enfrentados:**
+Visualizar la ejecución de las funciones recursivas fue complejo. Entender en qué momento la función "regresa" (backtracking) a la llamada anterior y cómo manejar los casos base (cuando se llega a una hoja nula) fue el mayor desafío de lógica en este curso.
