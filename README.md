@@ -1,57 +1,57 @@
 <div align="center">
 
-# 📘 Portafolio de Evidencias: Estructura de Datos
+# 📚 PORTAFOLIO DE EVIDENCIAS
+## Estructura de Datos
 
 ### Universidad Autónoma de Yucatán
 #### Facultad de Matemáticas | Ingeniería en Computación
 
 ---
 
-<img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Status-Completado-success?style=for-the-badge" alt="Status" />
-<img src="https://img.shields.io/badge/Semestre-Agosto%20%2F%20Diciembre-blue?style=for-the-badge" alt="Semestre" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Curso-Aprobado-success?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/UADY-2025-blue?style=for-the-badge" alt="Semestre" />
 
 <br>
+<br>
 
-**Desarrollado por:**
+**👤 Desarrollado por:**
 
-| 👨‍💻 Integrante | Rol |
-| :--- | :--- |
-| **Paredes Vazquez Ian** | Developer |
+### Chin Chan Anna Sofia
+*Estudiante de Ingeniería en Computación*
 
 </div>
 
 ---
 
-## 🚀 Mapa de Actividades (ADAs)
+## 🗺️ Mapa de Actividades (ADAs)
 
-A continuación se presenta la colección de prácticas realizadas durante el curso, enfocadas en el dominio de estructuras de datos lineales y no lineales, así como el manejo eficiente de memoria.
+Este repositorio contiene la colección completa de prácticas diseñadas para dominar el manejo de memoria y las estructuras de datos fundamentales en la computación.
 
-| ADA | 📂 Tema Principal | 📝 Descripción Técnica | 🔗 Enlace |
-| :---: | :--- | :--- | :---: |
-| **01** | **Pilas (Stacks)** | Conversión de expresiones Infijas a Postfijas y evaluación mediante pilas dinámicas. | [Ver Proyecto](./ADA01) |
-| **02** | **Apuntadores** | Gestión de memoria dinámica (`malloc`), aritmética de punteros y paso por referencia. | [Ver Proyecto](./ADA02) |
-| **03** | **Archivos & CSV** | Parsing de bases de datos planas (`Movies.csv`) y manipulación de strings en C++. | [Ver Proyecto](./ADA03) |
-| **04** | **Listas Enlazadas** | Implementación de una Lista Simple (Linked List) con operaciones CRUD completas. | [Ver Proyecto](./ADA04) |
-| **05** | **Investigación** | Estudio teórico sobre complejidad algorítmica, Árboles y Grafos (Doc & PPTX). | [Ver Proyecto](./ADA05) |
-| **07** | **Árboles (BST)** | Implementación de un Árbol Binario de Búsqueda con recorridos recursivos. | [Ver Proyecto](./ADA07) |
+| ID | 📂 Actividad / Tema | 🔧 Tecnologías | 🚀 Estado | 🔗 Acceso |
+| :---: | :--- | :--- | :---: | :---: |
+| **01** | **Pilas (Stacks)**<br>_Conversión y evaluación de expresiones matemáticas (Infija a Postfija)._ | `std::stack` `C++` | ✅ Finalizado | [Ver Código](./ADA01) |
+| **02** | **Apuntadores y Memoria**<br>_Gestión de memoria dinámica, aritmética de punteros y referencias._ | `malloc` `C` | ✅ Finalizado | [Ver Código](./ADA02) |
+| **03** | **Persistencia de Datos**<br>_Lectura, parsing y ordenamiento de bases de datos CSV (`Movies.csv`)._ | `fstream` `vector` | ✅ Finalizado | [Ver Código](./ADA03) |
+| **04** | **Listas Enlazadas**<br>_Implementación de estructuras dinámicas lineales con nodos._ | `struct` `punteros` | ✅ Finalizado | [Ver Código](./ADA04) |
+| **05** | **Investigación Teórica**<br>_Análisis de complejidad, Árboles (AVL, B) y Grafos._ | `Docs` `PPTX` | ✅ Finalizado | [Ver Docs](./ADA05) |
+| **07** | **Árboles Binarios (BST)**<br>_Implementación de árbol de búsqueda con recorridos recursivos._ | `Recursividad` `C++` | ✅ Finalizado | [Ver Código](./ADA07) |
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Entorno de Desarrollo
 
-El desarrollo de estas prácticas se realizó bajo los siguientes estándares:
+Este portafolio fue construido utilizando las siguientes herramientas y estándares:
 
 * **Lenguajes:**
-    * ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-    * ![C](https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=white)
-* **Herramientas:**
-    * Git & GitHub (Control de versiones).
-    * Visual Studio Code (Entorno de desarrollo).
-    * GCC Compiler (Compilación).
+    * ![C++](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) (Programación Orientada a Objetos)
+    * ![C](https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=white) (Programación Estructurada)
+* **IDE & Herramientas:**
+    * Visual Studio Code
+    * Git & GitHub
 
 ---
 
 <div align="center">
-    <small>Proyecto realizado para la asignatura de Estructura de Datos - UADY 2025</small>
+    <small>Hecho con ❤️ para la asignatura de Estructura de Datos</small>
 </div>
