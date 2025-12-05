@@ -9,7 +9,7 @@
 ---
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Curso-Aprobado-success?style=for-the-badge" alt="Status" />
+<img src="https://img.shields.io/badge/Proyecto-Final-orange?style=for-the-badge&logo=github" alt="Proyecto Final" />
 <img src="https://img.shields.io/badge/UADY-2025-blue?style=for-the-badge" alt="Semestre" />
 
 <br>
