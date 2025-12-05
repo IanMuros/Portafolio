@@ -1,13 +1,22 @@
 # ADA 01: Analizador de Expresiones Aritméticas (Pilas)
 
-## Descripción
-En esta actividad se desarrolló una aplicación en C++ que utiliza la estructura de datos lineal **Pila (Stack)**. El objetivo principal fue convertir expresiones matemáticas de notación infija (la estándar) a notación postfija (Polaca Inversa) para facilitar su evaluación por computadora.
+## 1. Descripción General
+En esta actividad se desarrolló una aplicación en C++ que implementa la estructura de datos lineal **Pila (Stack)**. El propósito principal del software es procesar expresiones matemáticas complejas, convirtiéndolas de su notación habitual (Infija) a notación Polaca Inversa (Postfija) para su posterior evaluación computacional.
 
-El programa lee un archivo `infijas.txt`, procesa cada línea respetando la jerarquía de operadores (potencias, multiplicaciones, sumas) y paréntesis, y finalmente evalúa la expresión matemática.
+El programa es capaz de leer un archivo de texto (`infijas.txt`), analizar la jerarquía de operadores (parentesis, potencias, multiplicación/división, suma/resta) y calcular el resultado final.
 
-## Contenido del Directorio
-* **Problema01:** Contiene el código fuente `InfijoAPostfijoApp.cpp` y el archivo de entrada `infijas.txt`.
+## 2. Competencias Desarrolladas
+* Implementación de la estructura de datos abstracta (TDA) tipo Pila.
+* Comprensión del algoritmo de "Shunting Yard" o similares para el ordenamiento de tokens.
+* Manejo de entrada y salida de archivos de texto en C++.
 
-## Reflexión Personal
-* **¿Qué aprendí?**: (Escribe aquí sobre el funcionamiento LIFO - Last In First Out de las pilas).
-* **Problemas y soluciones**: (Ejemplo: Manejar los paréntesis de apertura y cierre correctamente).
+## 3. Estructura del Directorio
+* `Problema01/InfijoAPostfijoApp.cpp`: Código fuente principal.
+* `Problema01/infijas.txt`: Archivo de prueba con las expresiones matemáticas.
+
+## 4. Reflexión Personal
+**Aprendizajes clave:**
+Durante el desarrollo de esta ADA, comprendí que las computadoras no leen las ecuaciones como nosotros (de izquierda a derecha buscando prioridades visualmente), sino que necesitan una estructura LIFO (Last In, First Out) para almacenar operadores temporalmente. Aprendí a manipular los métodos `push`, `pop` y `top`.
+
+**Retos enfrentados:**
+Uno de los mayores desafíos fue manejar correctamente los paréntesis anidados y asegurar que, al cerrar un paréntesis, se "desapilaran" los operadores correctos hasta encontrar el paréntesis de apertura correspondiente. También tuve que validar que la división por cero no cerrara el programa inesperadamente.
